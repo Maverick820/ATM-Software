@@ -4,7 +4,7 @@
 int x,y,selection,id,pin;
 
 
-void withdraw(){   //Αναληψη χρηματων
+void withdraw(){   //Αναληψη χρηματω
     printf("Select the amount of cash you want to withdraw ");
     scanf("%d", &x);
 
